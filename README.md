@@ -8,6 +8,7 @@ Eu sou Júnior Sousa e sou desenvolverdor front-end, estou apredendo novas aplic
 <br>
 *Conecte-se comigo:*
 <br>
+<br>
 - <a href="https://www.linkedin.com/in/j%C3%BAnior-sousa-116841217/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
